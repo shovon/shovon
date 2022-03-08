@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently working on a JavaScript data validation library called **[Valentina](https://github.com/shovon/valentina)**, which aims to provide an elegant, simple, yet powerful API.
+
 <!--
 **shovon/shovon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
