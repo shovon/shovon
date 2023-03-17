@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm currently working on a JavaScript data validation library called **[Ninazu](https://github.com/shovon/ninazu)**, which aims to provide an elegant, simple, yet powerful API.
+Currently working on:
+
+- **[Ninazu](https://github.com/shovon/ninazu)**, an elegant data validation library for TypeScript
+- Something exciting for the [Fediverse](https://en.wikipedia.org/wiki/Fediverse)
 
 <!--
 **shovon/shovon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
