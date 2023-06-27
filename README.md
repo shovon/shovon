@@ -2,7 +2,7 @@
 
 Currently working on:
 
-- **[Ninazu](https://github.com/shovon/ninazu)**, an elegant data validation library for TypeScript
+- **[Type Guardian](https://github.com/shovon/type-guardian)**, an elegant data validation library for TypeScript
 - Something exciting for the [Fediverse](https://en.wikipedia.org/wiki/Fediverse)
 
 <!--
