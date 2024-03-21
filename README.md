@@ -2,7 +2,7 @@
 
 Currently working on:
 
-- **[Type Guardian](https://github.com/shovon/type-guardian)**, an elegant data validation library for TypeScript
+- **[Hyperguard](https://github.com/shovon/hyperguard)**, an elegant data validation library for TypeScript
 - Something exciting for the [Fediverse](https://en.wikipedia.org/wiki/Fediverse)
 
 <!--
