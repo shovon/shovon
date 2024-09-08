@@ -5,6 +5,14 @@ Currently working on:
 - **[Hyperguard](https://github.com/shovon/hyperguard)**, an elegant data validation library for TypeScript
 - Something exciting for the [Fediverse](https://en.wikipedia.org/wiki/Fediverse)
 
+Me fiddling around with Raytracing in various languages here:
+
+- [C](https://github.com/shovon/raytracing-c)
+- [Rust](https://github.com/shovon/raytracing-rust)
+- [C++](https://github.com/shovon/raytracing-cpp)
+- [V](https://github.com/shovon/raytracing-vlang)
+- [Go](https://github.com/shovon/raytracing-golang)
+
 <!--
 **shovon/shovon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
