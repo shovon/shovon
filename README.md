@@ -3,7 +3,7 @@
 Currently working on:
 
 - **[Hyperguard](https://github.com/shovon/hyperguard)**, an elegant data validation library for TypeScript
-- Something exciting for the [Fediverse](https://en.wikipedia.org/wiki/Fediverse)
+- My blog here: [blog.salrahman.com](https://blog.salrahman.com)
 
 Me fiddling around with Raytracing in various languages here:
 
