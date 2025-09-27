@@ -3,6 +3,7 @@
 Currently working on:
 
 - **[Hyperguard](https://github.com/shovon/hyperguard)**, an elegant data validation library for TypeScript
+- **[go-eccfrog512ck2](https://github.com/shovon/go-eccfrog512ck2)**, a Go implementation of the EccFrog512ck2 Weierstrass curve family for elliptic curve cryptography
 - My blog: [blog.salrahman.com](https://blog.salrahman.com)
 
 Me fiddling around with Raytracing in various languages here:
