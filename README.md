@@ -2,8 +2,9 @@
 
 Currently working on:
 
-- **[Hyperguard](https://github.com/shovon/hyperguard)**, an elegant data validation library for TypeScript
+- **[Logseq AI Plugin](https://github.com/shovon/logseq-ai)**, a plugin for [Logseq](https://logseq.com/), a note taking app that features backlinking; an insanely useful feature that I rely on heavily
 - **[go-eccfrog512ck2](https://github.com/shovon/go-eccfrog512ck2)**, a Go implementation of the EccFrog512ck2 Weierstrass curve family for elliptic curve cryptography
+- **[Hyperguard](https://github.com/shovon/hyperguard)**, an elegant data validation library for TypeScript
 - My blog: [blog.salrahman.com](https://blog.salrahman.com)
 
 Me fiddling around with Raytracing in various languages here:
