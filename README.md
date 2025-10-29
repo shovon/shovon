@@ -15,8 +15,6 @@ Me fiddling around with Raytracing in various languages here:
 - [V](https://github.com/shovon/raytracing-vlang)
 - [Go](https://github.com/shovon/raytracing-golang)
 
-🛡️ Disclaimer: All repositories on this account prior to July 16th were created in a personal capacity and are not affiliated with any employer, past or present.
-
 <!--
 **shovon/shovon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
