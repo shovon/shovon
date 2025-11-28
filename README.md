@@ -2,7 +2,7 @@
 
 I'm Sal, currently working in the healthcare space during the day.
 
-At night I'm working on **[Logseq AI Plugin](https://github.com/shovon/logseq-ai)**, a plugin for [Logseq](https://logseq.com/), a note taking app that features backlinking; an insanely useful feature that I rely on heavily:
+At night I'm working on **[Logseq AI Plugin](https://github.com/shovon/logseq-ai)**, a plugin for [Logseq](https://logseq.com/), a note taking app that features backlinking; an insanely useful feature that I rely on heavily.
 
 Past open source projects that I worked on:
 
