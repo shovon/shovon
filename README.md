@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sal, currently deploy software in healthcare during the day.
+I'm Sal. I currently deploy software in healthcare during the day.
 
 At night I'm working on **[Logseq AI Plugin](https://github.com/shovon/logseq-ai)**, a plugin for [Logseq](https://logseq.com/), a note taking app that features backlinking; an insanely useful feature that I rely on heavily.
 
