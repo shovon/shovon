@@ -4,6 +4,8 @@ I'm Sal. I currently deploy software in healthcare during the day.
 
 At night I'm working on **[Logseq AI Plugin](https://github.com/shovon/logseq-ai)**, a plugin for [Logseq](https://logseq.com/), a note taking app that features backlinking; an insanely useful feature that I rely on heavily.
 
+When stuck, I just code on stuff. Recently I've developed a keen curiosity on cryptography, and so, I've been doing a lot of that.
+
 Past open source projects that I worked on:
 
 - **[go-eccfrog512ck2](https://github.com/shovon/go-eccfrog512ck2)**, a Go implementation of the EccFrog512ck2 Weierstrass curve family for elliptic curve cryptography
