@@ -2,7 +2,7 @@
 
 I'm Sal. I currently deploy software in healthcare during the day.
 
-At night I'm working on **[Logseq AI Plugin](https://github.com/shovon/logseq-ai)**, a plugin for [Logseq](https://logseq.com/), a note taking app that features backlinking; an insanely useful feature that I rely on heavily.
+At night I'm working on a **[block-based note-taking software](https://github.com/shovon/pbnotes)**, that specifically features backlinking like Logseq and Roam Research; an insanely useful feature that I rely on heavily.
 
 When stuck, I just code on stuff. Recently I've developed a keen curiosity on cryptography, and so, I've been doing a lot of that.
 
